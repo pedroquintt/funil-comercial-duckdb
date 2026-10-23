@@ -1,0 +1,10 @@
+tabela_origem,chave,motivo
+leads,L341,status=convertido sem venda registrada (CRM desatualizado?)
+agendamentos,A217,id_lead não existe em leads (órfão)
+agendamentos,A093,sdr do agendamento diverge do sdr do lead
+vendas,V059,id_lead não existe em leads (órfã)
+vendas,V057,lead sem nenhum agendamento registrado (quebra a lógica do funil)
+vendas,V058,lead vinculado não compareceu à reunião (compareceu=False)
+vendas,V041,lead vinculado está com status=perdido
+vendas,V052,time_comercial da venda diverge do time do lead
+vendas,V031,closer da venda diverge do closer do agendamento

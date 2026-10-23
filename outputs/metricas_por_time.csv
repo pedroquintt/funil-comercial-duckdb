@@ -1,0 +1,3 @@
+time_comercial,vol_leads,vol_agendamentos,vol_comparecimentos,vol_vendas,taxa_agendamento,taxa_comparecimento,taxa_conversao_venda,conversao_ponta_a_ponta,receita_total,ticket_medio
+atlas,200,106,79,31,0.53,0.7453,0.3924,0.155,199690,6441.61
+orion,200,110,61,27,0.55,0.5545,0.4426,0.135,163730,6064.07

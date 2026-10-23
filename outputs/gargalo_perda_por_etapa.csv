@@ -1,0 +1,4 @@
+time_comercial,vol_leads,vol_agendamentos,vol_comparecimentos,vol_vendas,perda_captacao_agendamento,perda_agendamento_comparecimento,perda_comparecimento_venda
+atlas,200,106,79,31,94,27,48
+orion,200,110,61,27,90,49,34
+geral,400,216,140,58,184,76,82
